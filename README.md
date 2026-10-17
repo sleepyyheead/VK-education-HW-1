@@ -65,3 +65,4 @@ LTV/CAC = 1.435
 
 **Lean Canvas для Pivot** 
 
+<img width="1695" height="1082" alt="image" src="https://github.com/user-attachments/assets/b6990783-bbb0-483b-98c7-71c528f20b47" />
