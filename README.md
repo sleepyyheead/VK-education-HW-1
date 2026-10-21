@@ -11,6 +11,7 @@
 **Lean Canvas**
 <img width="1817" height="1195" alt="image" src="https://github.com/user-attachments/assets/337f3808-7038-4a04-aea5-e776e1ac192f" />
 
+<hr>
 
 ## Задание №2
 
@@ -67,12 +68,13 @@ LTV/CAC = 1.435
 
 <img width="1695" height="1082" alt="image" src="https://github.com/user-attachments/assets/b6990783-bbb0-483b-98c7-71c528f20b47" />
 
+<hr> 
 
 ## Задание №3
 
 Задание выполнено для бизнес-модели b2b2c, которая характерна для Pivot'а 
 
-**Определение ролей. User Stories**
+**Определение ролей. User Stories**<br>
 Примеры ролей:
 <ul>
   <li> Школьный учитель физики </li>
