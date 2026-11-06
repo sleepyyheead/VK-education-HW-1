@@ -293,5 +293,17 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 Страница с описанием тарифного плана и кнопкой для оформления платной подписки: <br>
 <img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/20ce0a53-0733-41fa-a8be-14e0ab01703c" />
 
+Страница оплаты (ввод платёжных данных): <br>
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/342004f7-53af-4fe0-be92-661f39837d9f" />
+
+
+Страница подтверждения оплаты: <br>
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/167bf638-e051-4289-b4bb-8d55d6fded94" />
+
+Страница с сообщением об успешной оплате: <br>
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/ded07a3c-6ac6-4cf1-8212-0d6f7e92c885" />
+
+Страница с сообщением о том, что для совершения оплаты недостаточно средств: <br>
+<img width="auto" height="300" alt="image" src="https://github.com/user-attachments/assets/1e87f441-f15d-4630-ae4a-1178d89dc058" />
 
 
