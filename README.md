@@ -384,3 +384,13 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
   "subscription_status": "inactive"
 }
 </code></pre>
+
+
+
+
+## Задание №5
+
+**Схема С4**
+
+Уровень 1 - контекст системы <br>
+
