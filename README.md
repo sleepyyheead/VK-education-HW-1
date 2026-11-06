@@ -323,7 +323,7 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 </ul>
 <br>
 Запрос: <br>
-```JSON
+```json
 {
   "user_id": "usr_12345678",
   "plan_id": "plan_monthly_399",
