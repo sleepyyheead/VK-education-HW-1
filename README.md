@@ -338,15 +338,14 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 </ul>
 <br>
 Пример ответа при успехе (200 ОК): <br>
-```
+<pre><code class="language-json">
 {
   "status": "success",
   "transaction_id": "tx_11223334444",
   "confirmation_url": "https://bank-gateway.ru/pay/tx_7748291",
   "message": "Перенаправление на платежный шлюз"
 }
-```
-
+</code></pre>
 
 Ручка №2 (Подтверждение оплаты после ввода СМС-кода): <br>
 <ul>
@@ -355,10 +354,12 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 </ul>
 <br>
 Запрос: <br>
-```{
+<pre><code class="language-json">
+{
   "transaction_id": "tx_7748291",
   "sms_code": "4815"
-}```
+}
+</code></pre>
 Возможные коды ответа: <br>
 <ul>
   <li>200 OK - Платёж прошёл успешно, подписка активирована </li>
@@ -367,11 +368,11 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 </ul>
 <br>
 Пример ответа при успехе (200 ОК): <br>
-```
+<pre><code class="language-json">
 {
   "status": "active",
   "subscription_end_date": "2026-11-06T23:59:59Z",
   "receipt_url": "https://joule-lenz.ru/receipts/rec_5541.pdf",
   "message": "Подписка успешно оформлена!"
 }
-```
+</code></pre>
