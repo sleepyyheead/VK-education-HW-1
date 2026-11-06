@@ -323,13 +323,11 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 </ul>
 <br>
 Запрос: <br>
-```json
 {
   "user_id": "usr_12345678",
   "plan_id": "plan_monthly_399",
   "payment_method": "bank_card"
 }
-```
 Возможные коды ответа: <br>
 <ul>
   <li>200 OK - Успешно создано, возвращаем данные для перехода на шлюз</li>
