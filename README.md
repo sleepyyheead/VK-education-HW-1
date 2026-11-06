@@ -291,6 +291,7 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 Ниже представлены ключевые экраны, по которым проходит пользователь в описанных выше сценариях из критического пути<br>
 
 Страница с описанием тарифного плана и кнопкой для оформления платной подписки
-<img width="461" height="800" alt="image" src="https://github.com/user-attachments/assets/b6f8ca22-6a0e-4047-83cf-d58ab865cc6a" />
+<img width="auto" height="200" alt="image" src="https://github.com/user-attachments/assets/20ce0a53-0733-41fa-a8be-14e0ab01703c" />
+
 
 
