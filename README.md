@@ -342,7 +342,7 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 {
   "status": "success",
   "transaction_id": "tx_11223334444",
-  "confirmation_url": "https://bank-gateway.ru/pay/tx_7748291",
+  "confirmation_url": "https://bank-gateway.ru/pay/tx_11223334444",
   "message": "Перенаправление на платежный шлюз"
 }
 </code></pre>
@@ -371,8 +371,16 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 <pre><code class="language-json">
 {
   "status": "active",
-  "subscription_end_date": "2026-11-06T23:59:59Z",
+  "subscription_end_date": "2026-12-06T23:59:59Z",
   "receipt_url": "https://joule-lenz.ru/receipts/rec_5541.pdf",
   "message": "Подписка успешно оформлена!"
+}
+</code></pre>
+Пример ответа при ошибке 422 Unprocessable Entity: <br>
+<pre><code class="language-json">
+{
+  "error_code": "INSUFFICIENT_FUNDS",
+  "message": "Недостаточно средств на карте. Повторите попытку или выберите другую карту",
+  "subscription_status": "inactive"
 }
 </code></pre>
