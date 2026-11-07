@@ -393,7 +393,7 @@ MLP (Minimum Lovable Product - строится на базе MVP, добавл�
 **Схема С4**
 
 Уровень 1 - контекст системы <br>
-<img width="auto" height="600" alt="image" src="https://github.com/user-attachments/assets/4ceba405-f734-4685-9b4a-0faad39cfd9e" />
 
+Уровень 2 - контейнеры <br>
 
 
